@@ -1,0 +1,47 @@
+.navbar #navbarTogglerDemo01 .nav-link {
+  color: #2d3b4c;
+}
+.navbar #navbarTogglerDemo01 .nav-link:hover {
+  color: #596572;
+}
+
+.card {
+  background-color: #36404b;
+  height: 275px;
+  box-shadow: 11px 11px 22px #2e2e2e;
+  margin-top: -75px;
+  margin-bottom: 70px;
+}
+
+.card-work {
+  height: auto;
+  box-shadow: 11px 11px 22px #2e2e2e;
+  margin-top: -75px;
+  margin-bottom: 70px;
+  background-color: aliceblue;
+}
+
+.btn {
+  background-color: #2d3b4c;
+  color: white;
+}
+.btn:hover {
+  background-color: #596572;
+  color: white;
+}
+
+#work1,
+#work2,
+#work3
+ {
+  margin-top: auto;
+  overflow: hidden;
+}
+.logos {
+    width: 20px;
+    height: auto;
+  }
+  .centrado{
+    height: 150px;
+    background-color: aquamarine;
+  }
